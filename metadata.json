@@ -1,0 +1,6 @@
+{
+  "name": "Sumaiya Telecom - Mobile Repair Shop Manager",
+  "description": "Professional Mobile Repairing, Accessories, Spare Parts, Billing and Inventory Management System for Sumaiya Telecom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
